@@ -32,7 +32,7 @@ WINTER/
 ## ⚙️ Installation Guide
 
 ### 1️⃣ Clone Repository
-git clone https://github.com/YOUR_USERNAME/winter.git
+git clone https://github.com/NILESH2327/winter.git
 
 ### 2️⃣ Install Client
 cd client
